@@ -1,10 +1,8 @@
-docker.io/istio/pilot:1.24.1
-docker.io/istio/proxyv2:1.24.1
-docker.io/istio/examples-bookinfo-details-v1:1.20.2
-docker.io/istio/examples-bookinfo-ratings-v1:1.20.2
-docker.io/istio/examples-bookinfo-reviews-v1:1.20.2
-docker.io/istio/examples-bookinfo-reviews-v2:1.20.2
-docker.io/istio/examples-bookinfo-reviews-v3:1.20.2
-docker.io/istio/examples-bookinfo-productpage-v1:1.20.2
+docker.io/grafana/grafana:11.2.2-security-01
+docker.io/jaegertracing/all-in-one:1.58
+docker.io/grafana/loki:3.2.0
+kiwigrid/k8s-sidecar:1.27.5
+ghcr.io/prometheus-operator/prometheus-config-reloader:v0.76.0
+prom/prometheus:v2.54.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
