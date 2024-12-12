@@ -1,4 +1,5 @@
 docker.io/istio/pilot:1.24.1
 docker.io/istio/pilot:1.19.1
+docker.io/istio/proxyv2:1.24.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
