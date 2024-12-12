@@ -1,8 +1,4 @@
-docker.io/grafana/grafana:11.2.2-security-01
-docker.io/jaegertracing/all-in-one:1.58
-docker.io/grafana/loki:3.2.0
-kiwigrid/k8s-sidecar:1.27.5
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.76.0
-prom/prometheus:v2.54.1
+nginx
+nginx:1.20.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
