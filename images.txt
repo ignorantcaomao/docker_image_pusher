@@ -1,3 +1,3 @@
-arm64v8/ubuntu:latest
+pull kindest/node:v1.31.4
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
