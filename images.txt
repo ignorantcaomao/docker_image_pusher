@@ -1,4 +1,5 @@
-openarkcode/orchestrator
+nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.5.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 xiaoyaliu/alist
